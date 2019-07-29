@@ -24,6 +24,7 @@
   "homepage": "https://github.com/AndyLPK247/jasmine-node-js-example",
   "dependencies": {
     "frisby": "^2.0.10",
+    "gulp": "^4.0.2",
     "jasmine": "^2.8.0",
     "rewire": "^3.0.2",
     "sinon": "^4.1.3"
